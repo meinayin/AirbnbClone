@@ -5,7 +5,7 @@ Build Airbnb Clone App with React Native, React Router, AWS Amplify GraphQL and 
 ---
 **Features Including**
 - Build reusable  components with **React Native**. 
-- Intergreted with **AMAZON AWS Amplify** for user authentication, including sign-in/sign-up/log-out.
+- Integrated with **AMAZON AWS Amplify** for user authentication, including sign-in/sign-up/log-out.
 - Utilized **React Native Navigation, React Router and Stack Navigator** for page browsing and bottom-tab navigation.
 
 
